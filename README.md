@@ -119,6 +119,3 @@ Copyright © 2025 **Meenakshi Vinjamuri**
 
 ✨ *This project demonstrates the potential of deep learning in real-time traffic sign detection and its integration into intelligent transport systems.*
 
----
-
-👉 Do you want me to insert your **Roboflow dataset link** directly into the README, or should I just leave it as a placeholder (`YOUR_DATASET_LINK`) for now?
